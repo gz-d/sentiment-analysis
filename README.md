@@ -89,7 +89,7 @@ Precision: 81.7%
 Recall: 81.2%
 F1-score: 81.4%
 
-* GRU was not fully trained when the training terminated.
+*GRU was not fully trained when the training terminated.
 
 
 
