@@ -8,3 +8,17 @@ For this stage, I applied some machine learning algorithms (namely, perceptron, 
 2. sentiment analysis2
 
 For this stage, I implemented deep learning techniques. Specifically, I applied Forward Neural Networks, RNN and GRU to train both binary (positive and negative) and ternary (positive, negative, and neutral) classifiers on customers' sentiment. For word vectorization, I tried both TF-IDF and word2vec.
+
+The testing results on the multiple models are as follows:
+
+Perceptron with TF-IDF features:
+Accuracy: 84.8%
+Precision: 87.0%
+Recall: 81.8%
+F1-score: 84.3%
+
+SVM with TF-IDF features:
+Accuracy: 89.2%
+Precision: 89.0%
+Recall: 89.4%
+F1-score: 89.2%
